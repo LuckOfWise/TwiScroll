@@ -1,5 +1,7 @@
 body {
 	background: #333;
+	background-image: url("../img/squares.png");
+	background-repeat: repeat;
 }
 .main {
 	margin-top: 40px;
